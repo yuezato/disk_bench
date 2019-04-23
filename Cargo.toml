@@ -1,0 +1,10 @@
+[package]
+name = "disk_bench"
+version = "0.1.0"
+authors = ["yuuya uezato <yuuya_uezato@dwango.co.jp>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2"
+trackable = "^0.2.21"
+rand = "0.6"
